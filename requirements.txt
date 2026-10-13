@@ -1,0 +1,4 @@
+sentence-transformers
+groq
+python-dotenv
+jupyter
